@@ -8,4 +8,4 @@
   b) MotionFcn: the data to synchronize the camera with the robot
 2. Run runAllStatistics.m in MATLAB
 
-CAD file is in folder Static and called Staircase_CSD.stl
+CAD file is in folder Static and called Staircase_CAD.stl
